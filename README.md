@@ -29,4 +29,3 @@ If you have been a developer for any amount of time, you will undoubtedly have a
 * Versioning With Headers
 * Versioning With Headers And Query Strings
 * Versioning Using the URL
-* 
