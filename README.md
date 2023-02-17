@@ -2,7 +2,7 @@
 
 This is the companion repo for [*ASP.NET Core APIs Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-api-succinctly) by Dirk Strauss. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/ASP.NET-Core-APIs-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-api-succinctly)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/ASP.NET-Core-APIs-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-api-succinctly)
 
 If you have been a developer for any amount of time, you will undoubtedly have already heard the term "API" being used. The term API stands for application programming interface. You can think of these as small bits of code that allow other systems to access data and communicate. ASP.NET Core APIs Succinctly shows you how to create your own APIs.
 
